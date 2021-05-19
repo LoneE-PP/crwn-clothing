@@ -6,9 +6,10 @@ import HomePage from "./pages/homepage/homepage.component"
 
 
 const HatsPage = () => {
+  return(
   <div>
     <h1>Hats page</h1>
-  </div>
+  </div>)
 };
 
 
